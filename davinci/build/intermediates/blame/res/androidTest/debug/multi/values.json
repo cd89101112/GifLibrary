@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/kevin/workspace/GifLibrary/davinci/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 318,
+                    "endColumn": 44,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "/Users/kevin/workspace/GifLibrary/davinci/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            }
+        ]
+    }
+]

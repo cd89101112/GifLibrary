@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/kevin/workspace/GifLibrary/davinci/src/main/assets"/><source path="/Users/kevin/workspace/GifLibrary/davinci/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/kevin/workspace/GifLibrary/davinci/src/debug/assets"/></dataSet></merger>

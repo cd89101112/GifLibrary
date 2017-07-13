@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kevin/workspace/GifLibrary/davinci/build/intermediates/res/merged/debug/drawable/image_loading.png",
+        "source": "/Users/kevin/workspace/GifLibrary/davinci/src/main/res/drawable/image_loading.png"
+    },
+    {
+        "merged": "/Users/kevin/workspace/GifLibrary/davinci/build/intermediates/res/merged/debug/drawable/image_load_error.png",
+        "source": "/Users/kevin/workspace/GifLibrary/davinci/src/main/res/drawable/image_load_error.png"
+    }
+]
