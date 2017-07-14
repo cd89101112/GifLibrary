@@ -5,7 +5,7 @@ android {
     buildToolsVersion "25.0.2"
     defaultConfig {
         applicationId "cn.xiaoman.kevin.giflibrary"
-        minSdkVersion 21
+        minSdkVersion 15
         targetSdkVersion 25
         versionCode 1
         versionName "1.0"
@@ -22,6 +22,7 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
 
-    compile project(':davinci')
+//    compile project(':gif-library')
+    compile 'com.kevin.library:gif-library:1.0.3'
     compile 'com.android.support:appcompat-v7:25.3.1'
 }

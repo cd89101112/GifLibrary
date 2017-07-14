@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kevin/workspace/GifLibrary/gif-library/build/intermediates/res/merged/release/drawable/image_loading.png",
+        "source": "/Users/kevin/workspace/GifLibrary/gif-library/src/main/res/drawable/image_loading.png"
+    },
+    {
+        "merged": "/Users/kevin/workspace/GifLibrary/gif-library/build/intermediates/res/merged/release/drawable/image_load_error.png",
+        "source": "/Users/kevin/workspace/GifLibrary/gif-library/src/main/res/drawable/image_load_error.png"
+    }
+]

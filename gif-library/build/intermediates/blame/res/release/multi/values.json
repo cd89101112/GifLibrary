@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/kevin/workspace/GifLibrary/gif-library/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 318,
+                    "endColumn": 44,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "/Users/kevin/workspace/GifLibrary/gif-library/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 44,
+                        "endOffset": 56
+                    }
+                }
+            }
+        ]
+    }
+]

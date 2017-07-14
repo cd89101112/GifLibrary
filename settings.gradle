@@ -1,1 +1,1 @@
-include ':app', ':davinci'
+include ':app', ':gif-library'
